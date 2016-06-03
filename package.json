@@ -7,7 +7,10 @@
     "socket.io": "^1.4.6"
   },
    "engines": {
-    "node": "6.2.1",
-    "npm": "3.9.3"
-  }
+    "node": "5.11.1",
+    "npm": "3.8.6"
+  },
+  "scripts": {
+  	"start": "node index.js"
+	}
 }
