@@ -1,5 +1,5 @@
 {
-  "name": "socket-chat-example",
+  "name": "transforms",
   "version": "0.0.1",
   "description": "my first socket.io app",
   "engines": {
@@ -10,12 +10,17 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.10.2",
-    "socket.io": "^1.4.6"
+    "express": "4.10.2",
+    "socket.io": "1.4.6"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/saschas/transforms.git"
   },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "license": "UNLICENSED"
 }
